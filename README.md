@@ -1,2 +1,2 @@
-# LoRa-Project-Sydney-uni
-a website with details for LORA project.
+# planets-of-the-universe
+a small website with details on many planets and up-to-date news.
